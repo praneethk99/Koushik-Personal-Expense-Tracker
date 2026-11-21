@@ -1,5 +1,7 @@
 # Personal Expense Tracker
 
+[Open the live Streamlit demo](https://koushik-personal-expense-tracker.streamlit.app/)
+
 I built this Streamlit dashboard as part of my AI engineering journey. It helps you explore how your monthly take-home pay is split across needs, wants, and savings or extra debt repayment.
 
 ## What you can do
